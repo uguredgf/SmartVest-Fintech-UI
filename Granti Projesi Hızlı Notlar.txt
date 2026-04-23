@@ -1,0 +1,2 @@
+-  5 aşamalı risk kategorisine her brirne isim vererlim
+-  Her risk grubu için yatırım enstrümanlarının oranını değiştirecez

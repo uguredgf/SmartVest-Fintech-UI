@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Vest</string>
+    <string name="total_assets">Toplam Varlık</string>
+    <string name="smart_insight">SMART INSIGHT</string>
+    <string name="insight_text">Bu ay akaryakıt harcaman yüksek.\nPortföyüne Enerji Fonu eklemek ister misin?</string>
+    <string name="risk_level_label">Risk Seviyesi: %d</string>
+    <string name="distribute_button">1000 TL OTOMATİK DAĞIT</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="success_message">İşlem Başarılı</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.garantibbva.smartvest.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.garantibbva.smartvest.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.garantibbva.smartvest.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.garantibbva.smartvest.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.garantibbva.smartvest.app-merged_res-31:/drawable_bg_rounded_button.xml.flat",
+        "source": "com.garantibbva.smartvest.app-main-33:/drawable/bg_rounded_button.xml"
+    },
+    {
+        "merged": "com.garantibbva.smartvest.app-merged_res-31:/drawable_bg_rounded_card.xml.flat",
+        "source": "com.garantibbva.smartvest.app-main-33:/drawable/bg_rounded_card.xml"
+    },
+    {
+        "merged": "com.garantibbva.smartvest.app-merged_res-31:/xml_network_security_config.xml.flat",
+        "source": "com.garantibbva.smartvest.app-main-33:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.garantibbva.smartvest.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.garantibbva.smartvest.app-main-33:/layout/activity_main.xml"
+    }
+]
