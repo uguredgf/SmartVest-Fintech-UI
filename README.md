@@ -22,7 +22,7 @@ Young people are constantly advised to invest, but existing traditional banking 
 
 | Dashboard | Round-Up Automation | Risk Management |
 | :---: | :---: | :---: |
-| <img src="gorsel_1 .png" width="250"/> | <img src="gorsel_2.png" width="250"/> | <img src="gorsel_3.png" width="250"/> |
+| <img src="gorsel_1.png" width="250"/> | <img src="gorsel_2.png" width="250"/> | <img src="gorsel_3.png" width="250"/> |
 
 ## 🛠️ Technical Stack
 * **Language:** Kotlin
